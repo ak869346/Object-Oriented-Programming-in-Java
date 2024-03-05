@@ -5,4 +5,4 @@ Class,
 Inheritance,
 Polymorphism,
 Abstraction,
-Encapsulation
+Encapsulation.
